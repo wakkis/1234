@@ -1,0 +1,22 @@
+body{
+  height:620px;
+  width:1023px;
+  position:absolute;
+  box-sizing:border-box;
+  transform-origin: 0 0;
+  overflow: hidden;
+}
+
+h1 {
+  color: black;
+}
+
+img {
+  height:300px;
+  position:absolute;
+  box-sizing:border-box;: 6px;
+  border-style: groove;
+  height: 250px;
+  float: left;
+}
+ 
